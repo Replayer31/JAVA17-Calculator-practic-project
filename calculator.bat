@@ -1,2 +1,2 @@
-java -jar "%~dp0CalculatorV3.jar"
+java -jar "%~dp0Calculator.jar"
 pause
